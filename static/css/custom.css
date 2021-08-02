@@ -8,3 +8,22 @@
 .box-simple {
   min-height: 230px;
 }
+
+img[src*='#responsiveLeft'] {
+    float: left;
+    max-width: 60%;
+    height: auto;
+    margin-right: 10px;
+}
+
+section {
+    margin: auto;
+    padding-top: 10px;
+}
+div#sectionleft {
+    float: left;
+    margin-right: 10px;
+}
+div#sectionright {
+    margin: auto;
+}
